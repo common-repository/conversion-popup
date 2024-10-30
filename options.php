@@ -1,0 +1,2 @@
+<a href="https://www.socialintents.com/dashboard.do” class="button button-primary" target="_blank">Go to Conversion Popup</a>
+<script> location.href="https://www.socialintents.com/dashboard.do";</script>
